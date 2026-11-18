@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Senkiu] 👋
+# Hi there, I'm Senkiu 👋
 
 I'm  **Senkiu.** Passionate about building clean, scalable software and solving real-world problems.
 
@@ -39,4 +39,4 @@ I'm  **Senkiu.** Passionate about building clean, scalable software and solving 
 ---
 
 ### 🌐 Connect with me
-  [![Donate](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://yourwebsite.com](https://donatr.ee/senkiu/))
+  [![Donate](https://img.shields.io/badge/donate-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([https://yourwebsite.com](https://donatr.ee/senkiu/))
