@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Senkiu] 👋
 
-I'm  ** Senkiu. ** Passionate about building clean, scalable software and solving real-world problems.
+I'm  **Senkiu.** Passionate about building clean, scalable software and solving real-world problems.
 
 ---
 
